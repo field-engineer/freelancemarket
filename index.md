@@ -9,7 +9,7 @@ Thanks to this, the data arrives in perfect condition and there is no collision 
 
 Advantages of Ethernet versus Wi-Fi
 
-Possibly [Cable companies](https://www.fieldengineer.com/blogs/observations-solutions-cables-companies/) at this point you are considering the differences between Ethernet connections and Wi-Fi connections. Basically, an Ethernet connection is a Network connection via cable, while a Wi-Fi connection is a Network collection wirelessly.
+Possibly [Cable internet companies](https://www.fieldengineer.com/blogs/observations-solutions-cables-companies/) at this point you are considering the differences between Ethernet connections and Wi-Fi connections. Basically, an Ethernet connection is a Network connection via cable, while a Wi-Fi connection is a Network collection wirelessly.
 
 It should be noted that we should not be confused, that is, we can establish Wi-Fi connections between our computers, usually through a router, but the main difference is that we use Ethernet with the idea of connecting several computers within a private or internal network. the company itself or housing, while Wi-Fi and is generally used for internet connection.
 
